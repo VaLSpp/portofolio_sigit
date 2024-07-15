@@ -39,7 +39,7 @@ export default function MenuItems() {
             color="transparent"
             onPress={() => handleOpen()}
           >
-            <Image className="flex rounded-full" src="/images/noval.jpg" width={40} height={40} alt="andikarna" />
+            <Image className="flex rounded-full" src="/images/sigit.jpg" width={40} height={40} alt="andikarna" />
           </Button>
 
           <NavbarItem className="">
@@ -75,12 +75,7 @@ export default function MenuItems() {
           <MdOutlineAllInclusive className="text-xl mr-2" />
           <label class="cursor-pointer text-dark font-medium dark:text-gray-300">About</label>
         </Link>
-        <Link
-          href="/menu/product"
-          className={`flex items-center  h-10 px-2 rounded-lg text-dark bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:text-gray-300 dark:hover:text-teal-300 dark:hover:bg-gray-800 ${route == '/menu/product' ? ('bg-teal-200 dark:bg-teal-800 dark:text-teal-300') : ('')}`}>
-          <TbShoppingBagSearch className="text-xl mr-2" />
-          <label class="cursor-pointer text-dark font-medium dark:text-gray-300">Products</label>
-        </Link>
+
         <Link
           href="/menu/project"
           className={`flex items-center  h-10 px-2 rounded-lg text-dark bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:text-gray-300 dark:hover:text-teal-300 dark:hover:bg-gray-800 ${route == '/menu/project' ? ('bg-teal-200 dark:bg-teal-800 dark:text-teal-300') : ('')}`}>

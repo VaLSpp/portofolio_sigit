@@ -8,7 +8,7 @@ export default function Footer() {
               <span className="text-sm text-gray-500 dark:text-gray-300 flex justiify-center items-center">©2023
               </span>
               <div className="text-sm text-gray-500 dark:text-gray-300 flex justiify-center items-center">
-                <a href="">❤️ by Muhammad Noval Supriyadi</a>.
+                <a href="">❤️ by Sigit Eka Wahyudi</a>.
               </div>
             </div>
           </div>

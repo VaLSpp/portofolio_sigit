@@ -45,7 +45,7 @@ export default function Header() {
               color="transparent"
               onPress={() => handleOpen()}
             >
-              <Image className="flex -mr-10 rounded-full lg:w-10" src="/images/noval.jpg" width={40} height={40} alt="andikarna" />
+              <Image className="flex -mr-10 rounded-full lg:w-10" src="/images/sigit.jpg" width={40} height={40} alt="andikarna" />
             </Button>
 
             <NavbarItem>
@@ -91,13 +91,6 @@ export default function Header() {
             About
           </Link>
 
-          <Link
-            href="/menu/product"
-            className={`flex items-center w-fit h-10 px-2 py-1 rounded-lg text-dark dark:text-gray-300 hover:bg-gray-100 dark:hover:text-teal-300 dark:hover:bg-gray-800 ${route == '/menu/product' ? ('bg-gray-200 dark:bg-gray-800 dark:text-teal-300') : ('')}`}
-          >
-            <TbShoppingBagSearch className="text-xl mr-2" />
-            Product
-          </Link>
 
         </NavbarItem>
 

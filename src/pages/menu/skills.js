@@ -54,7 +54,7 @@ export default function skills() {
 
   return (
     <>
-      <TheHead title="Skills | Muhammad Noval Supriyadi" />
+      <TheHead title="Skills | Sigit Eka Wahyudi" />
 
       <div className="py-10 px-10 w-full flex justify-center dark:bg-gray-900 h-screen">
         <div className="w-screen dark:border-b-gray-500">

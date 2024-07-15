@@ -20,7 +20,7 @@ import { SiNextdotjs } from "react-icons/si";
 export default function Project() {
   return (
     <>
-      <TheHead title="Projects | Muhammad Noval Supriyadi" />
+      <TheHead title="Projects | Sigit Eka Wahyudi" />
       <div className="flex justify-center py-20 px-10">
         <div className="w-screen">
           <section>

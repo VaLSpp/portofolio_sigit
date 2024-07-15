@@ -23,7 +23,7 @@ export default function Home() {
   }
   return (
     <>
-      <TheHead title="Home | Muhammad Noval Supriyadi" />
+      <TheHead title="Home | Sigit Eka Wahyudi" />
 
       <div className="home py-20 w-full dark:bg-gray-900">
 
@@ -31,7 +31,7 @@ export default function Home() {
         <div className="py-5 dark:border-b-gray-500">
 
           <ul className="block sm:flex justify-between items-end">
-            <h1 className="text-center text-dark text-4xl sm:text-start sm:text-5xl dark:text-gray-300">I&apos;m <span className="text-teal">Noval</span> Supriyadi</h1>
+            <h1 className="text-center text-dark text-4xl sm:text-start sm:text-5xl dark:text-gray-300">I&apos;m <span className="text-teal">Sigit</span> Eka <span className="text-teal"> Wahyudi</span></h1>
             <li className="flex text-dark text-xs justify-center sm:text-sm sm:justify-start dark:text-gray-400">
               <IoMdPin />
               Stay in Bogor 🇮🇩</li>
@@ -40,11 +40,11 @@ export default function Home() {
           <ul className="list flex justify-center sm:justify-start text-dark py-1 dark:text-gray-400">
             <li className="flex">
               <HiMiniCodeBracket className="text-xl mr-1" />
-              Front End Developer</li>
+              Backend Developer</li>
           </ul>
 
           <ul className="py-5 text-center sm:text-start text-dark dark:text-gray-400">
-            <p className="text-sm sm:text-lg">study at 1 ciomas vocational high school and had a strong focus on front end and back end development. learning stage in Javascript and experienced in all areas of web technology. Communicative and dedicated to present a good and attractive web application in appearance.</p>
+            <p className="text-sm sm:text-lg">Study at 1 ciomas vocational high school and had a strong focus on front end and back end development. learning stage in Php | JavaScript and experienced in all areas of web technology. Communicative and dedicated to present a good and attractive web application in appearance.</p>
           </ul>
 
           <div className="flex justify-center sm:justify-start">

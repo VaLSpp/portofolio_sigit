@@ -5,7 +5,7 @@ export default function TheHead({title}) {
     <>
       <Head >
         <title>{title}</title>
-        <link rel="icon" href="/images/noval.jpg"></link>
+        <link rel="icon" href="/images/sigit.jpg"></link>
       </Head>
     </>
   )

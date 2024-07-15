@@ -20,7 +20,7 @@ export default function About() {
 
   return (
     <>
-      <TheHead title="About | Muhammad  Noval Supriyadi" />
+      <TheHead title="About | Sigit Eka Wahyudi" />
       
       <div className="py-10 px-10 w-full flex justify-center">
         <div className="w-screen">
@@ -45,26 +45,20 @@ export default function About() {
                   <p className="text-sm font-normal text-center sm:text-start text-gray-500 dark:text-gray-400">Terhubung dengan salah satu media saya yang tersedia dan ayo berkomunikasi.</p>
                   <ul className="my-4 space-y-3">
                     <li>
-                      <Link href="https://www.tiktok.com/@asololepal?_t=8h6308151qE&_r=1" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
-                        <FaTiktok />
-                        <span className="flex-1 ml-3 whitespace-nowrap">Tiktok</span>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="https://www.instagram.com/nopalspryd/" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
+                      <Link href="https://www.instagram.com/sigitwhyd1_/" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
                         <RiInstagramFill className=" text-red-500" />
                         <span className="flex-1 ml-3 whitespace-nowrap">Instagram</span>
                         <span className="inline-flex items-center justify-center px-2 py-0.5 ml-3 text-xs font-medium text-gray-500 bg-gray-200 rounded dark:bg-gray-700 dark:text-gray-400">Popular</span>
                       </Link>
                     </li>
                     <li>
-                      <Link href="https://www.linkedin.com/in/muhammad-noval-supriyadi/" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
+                      <Link href="https://www.linkedin.com/in/sigitekawahyudi/" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
                         <AiFillLinkedin className="text-blue-600"/>
                         <span className="flex-1 ml-3 whitespace-nowrap">Linkedin</span>
                       </Link>
                     </li>
                     <li>
-                      <Link href="https://github.com/VaLSpp" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
+                      <Link href="https://github.com/SigitWhyd1" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
                         <AiFillGithub />
                         <span className="flex-1 ml-3 whitespace-nowrap">Github</span>
                       </Link>
@@ -86,7 +80,7 @@ export default function About() {
             )}
 
             <div className="text-center sm:text-start space-y-5 text-dark dark:text-gray-400">
-              <p>Hi! I am Muhammad Noval Supriyadi, I am a student at SMKN 1 Ciomas, I am majoring in PPLG with a deep dedication to creating good and efficient solutions through code. With a strong foundation in Programming, as well as a basic understanding of frontend tools and frameworks, I have embraced the ever-evolving web development with enthusiasm and dedication. Currently, domiciled in Bogor, Indonesia 🇮🇩.
+              <p>Hi! I am Sigit Eka Wahyudi, I am a student at SMKN 1 Ciomas, I am majoring in PPLG with a deep dedication to creating good and efficient solutions through code. With a strong foundation in Programming, as well as a basic understanding of frontend tools and frameworks, I have embraced the ever-evolving web development with enthusiasm and dedication. Currently, domiciled in Bogor, Indonesia 🇮🇩.
               </p>
               <p>
                 As a fast learner and active thinker, I thrive in a dynamic environment where innovation is the driving force. My collaborative nature allows me to integrate seamlessly with the team, contributing not only to my technical prowess but also a humble attitude that values each member&apos;s input.
@@ -110,10 +104,9 @@ export default function About() {
                   <RiInstagramFill className=" text-red-500" />
                   <label className="font-semibold text-2xl">Instagram</label>
                 </div>
-                <Link href="https://www.instagram.com/nopalspryd/" className="text-dark dark:text-gray-400">@nopalspryd</Link>
+                <Link href="https://www.instagram.com/sigitwhyd1_/" className="text-dark dark:text-gray-400">@sigitwhyd1_</Link>
               </div>
               <label className="mx-20 text-gray-700 dark:text-gray-400 ">find me in Instagram</label>
-              <TikTokEmbed />
             </div>
           </section >
         </div>

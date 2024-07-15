@@ -26,7 +26,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <TheHead title="Certificate | Muhammad Noval Supriyadi" />
+      <TheHead title="Certificate | Sigit Eka Wahyudi" />
 
       <div className="py-10 sm:px-10 w-full dark:bg-gray-900 h-screen">
 
@@ -77,8 +77,54 @@ export default function Home() {
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
-                  <Link href="/images/certificate/serti2.jpg">
-                    <Image src="/images/certificate/serti2.jpg" alt="picture4" width={500} height={500} />
+                  <Link href="/images/certificate/serti4.png">
+                    <Image src="/images/certificate/serti4.jpg" alt="picture2" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti5.jpg">
+                    <Image src="/images/certificate/serti5.jpg" alt="picture4" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti6.jpg">
+                    <Image src="/images/certificate/serti6.jpg" alt="picture4" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti7.jpg">
+                    <Image src="/images/certificate/serti7.jpg" alt="picture4" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti8.jpg">
+                    <Image src="/images/certificate/serti8.jpg" alt="picture4" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti9.jpg">
+                    <Image src="/images/certificate/serti9.jpg" alt="picture4" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti10.jpg">
+                    <Image src="/images/certificate/serti10.jpg" alt="picture4" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti11.jpg">
+                    <Image src="/images/certificate/serti11.jpg" alt="picture4" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti12.jpg">
+                    <Image src="/images/certificate/serti12.jpg" alt="picture4" width={500} height={500} />
+                  </Link>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <Link href="/images/certificate/serti13.jpg">
+                    <Image src="/images/certificate/serti13.jpg" alt="picture4" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
               </Swiper>

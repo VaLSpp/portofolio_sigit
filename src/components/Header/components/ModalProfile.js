@@ -14,21 +14,21 @@ export default function ModalProfile({ onClose }) {
       <ModalBody className="dark:bg-gray-900">
         <Card className="flex">
           <Image
-            src="/images/bannern.webp"
+            src="/images/bannersigit.png"
             alt="banner"
             width={500}
-            height={300}
+            height={200}
             className="w-full h-full z-0 object-cover"
           />
           <CardHeader className="absolute bottom-0 gap-2">
             <Image
-              src="/images/noval.jpg"
-              alt="noval"
-              height={50} width={50}
+              src="/images/sigit.jpg"
+              alt="sigit.jpg"
+              height={65} width={65}
               className="rounded-full shadow-md"
             />
             <p className="text-dark text-sm font-semibold flex items-center" role="none">
-              @novalspryd
+              @sigitwhyd1_
               <MdVerified className="text-blue-500" />
             </p>
           </CardHeader>
@@ -36,12 +36,12 @@ export default function ModalProfile({ onClose }) {
         <Card className="dark:bg-gray-900">
           <CardBody className="gap-2 text-dark dark:text-gray-300">
             <Button
-              href="https://wa.me/6285819041101/"
+              href="https://wa.me/62858770174946/"
               color="default"
               variant="bordered"
               endContent={<HiOutlineChat className="text-dark dark:text-gray-300" />}
             >
-              <Link href="https://wa.me/6285819041101/">Messages</Link>
+              <Link href="https://wa.me/62858770174946/">Messages</Link>
             </Button>
           </CardBody>
         </Card>
