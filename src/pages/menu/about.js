@@ -80,7 +80,7 @@ export default function About() {
             )}
 
             <div className="text-center sm:text-start space-y-5 text-dark dark:text-gray-400">
-              <p>Hi! I am Sigit Eka Wahyudi, I am a student at SMKN 1 Ciomas, I am majoring in PPLG with a deep dedication to creating good and efficient solutions through code. With a strong foundation in Programming, as well as a basic understanding of frontend tools and frameworks, I have embraced the ever-evolving web development with enthusiasm and dedication. Currently, domiciled in Bogor, Indonesia 🇮🇩.
+              <p>Hi! I am Sigit Eka Wahyudi, I am a student at SMKN 1 Ciomas, I am majoring in PPLG with a deep dedication to creating good and efficient solutions through code. With a strong foundation in Programming, as well as a basic understanding of backend tools and frameworks, I have embraced the ever-evolving web development with enthusiasm and dedication. Currently, domiciled in Bogor, Indonesia 🇮🇩.
               </p>
               <p>
                 As a fast learner and active thinker, I thrive in a dynamic environment where innovation is the driving force. My collaborative nature allows me to integrate seamlessly with the team, contributing not only to my technical prowess but also a humble attitude that values each member&apos;s input.
