@@ -119,7 +119,7 @@ export default function Home() {
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti12.jpg">
-                    <Image src="/images/certificate/serti12.jpg" alt="picture12" width={500} height={500} />
+                    <Image src="/images/certificate/sserti12.jpg" alt="picture12" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
