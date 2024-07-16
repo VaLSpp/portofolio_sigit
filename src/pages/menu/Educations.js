@@ -14,7 +14,7 @@ export default function Educations() {
                 <Image src="/images/smpibg.png" alt="umt" width={30} height={30} />
               </span>
               <h3 className="flex items-center mb-1 text-sm font-semibold text-gray-900 dark:text-white">SMP INFORMATIKA BINA GENERASI</h3>
-              <time className="block mb-3 text-xs font-normal leading-none text-gray-400 dark:text-gray-500">2019 - 20222</time>
+              <time className="block mb-3 text-xs font-normal leading-none text-gray-400 dark:text-gray-500">2019 - 2022</time>
               <div className="mb-2 flex flex-col">
               </div>
             </li>
