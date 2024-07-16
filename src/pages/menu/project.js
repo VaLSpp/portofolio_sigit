@@ -47,6 +47,7 @@ export default function Project() {
                     <div className="md:flex space-y-5 md:space-y-0 justify-between ">
                       <div className="flex items-center space-x-2">
                         <RiReactjsLine className="text-3xl text-teal-500" />
+                        <SiLaravel className="text-3xl text-red-700" />
                         <AiFillHtml5 className="text-3xl text-orange-500" />
                         <DiCss3 className="text-3xl text-blue-500" />
                       </div>
