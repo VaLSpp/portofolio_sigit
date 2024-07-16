@@ -39,57 +39,18 @@ export default function Project() {
 
                 <div className="box max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105">
                   <div>
-                    <img className="rounded-t-lg" src="/images/project/projek3.jpg" alt="" />
+                    <img className="rounded-t-lg" src="/images/project/project4.jpg" alt="" />
                   </div>
                   <div className="p-5">
-                    <h5 className="mb-2 text-xl font-bold tracking-tight text-dark dark:text-white">Kantin PPLG</h5>
-                    <p className="mb-5 text-xs font-normal text-gray-500 dark:text-gray-400">Websites created with using HTML, CSS and JavaScript only.</p>
-                    <div className="md:flex space-y-5 md:space-y-0 justify-between ">
-                      <div className="flex items-center space-x-2">
-                        <AiFillHtml5 className="text-3xl text-orange-500" />
-                        <DiCss3 className="text-3xl text-blue-500" />
-                        <IoLogoJavascript className="text-3xl text-yellow-400" />
-                      </div>
-                      <Link href="https://kantinpplg.vercel.app/" className="flex items-center text-sm text-gray-500 hover:text-teal-500 dark:text-gray-300">
-                        <TbViewportWide className="mr-1 text-lg" />
-                        Live Preview
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="box max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105">
-                  <div>
-                    <img className="rounded-t-lg" src="/images/project/projek1.jpg" alt="" />
-                  </div>
-                  <div className="p-5">
-                    <h5 className="mb-2 text-xl font-bold tracking-tight text-dark dark:text-white">Anime List</h5>
-                    <p className="mb-5 text-xs font-normal text-gray-500 dark:text-gray-400">Website Anime List build with Next JS and ReactJS.</p>
+                    <h5 className="mb-2 text-xl font-bold tracking-tight text-dark dark:text-white">Quick Files</h5>
+                    <p className="mb-5 text-xs font-normal text-gray-500 dark:text-gray-400">Website Quick Files build with ReactJS.</p>
                     <div className="md:flex space-y-5 md:space-y-0 justify-between ">
                       <div className="flex items-center space-x-2">
                         <RiReactjsLine className="text-3xl text-teal-500" />
-                        <SiNextdotjs className="text-3xl text-green-500" />
                         <AiFillHtml5 className="text-3xl text-orange-500" />
                         <DiCss3 className="text-3xl text-blue-500" />
                       </div>
                       
-                    </div>
-                  </div>
-                </div>
-
-                <div className="box max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105">
-                  <div>
-                    <img className="rounded-t-lg" src="/images/project/personal.jpg" alt="" />
-                  </div>
-                  <div className="p-5">
-                    <h5 className="mb-2 text-xl font-bold tracking-tight text-dark dark:text-white">Personal Website</h5>
-                    <p className="mb-5 text-xs font-normal text-gray-500 dark:text-gray-400">Personal website styling with TailwindCSS3.</p>
-                    <div className="md:flex space-y-5 md:space-y-0 justify-between ">
-                      <div className="flex items-center space-x-2">
-                        <AiFillHtml5 className="text-3xl text-orange-500" />
-                        <SiTailwindcss className="text-3xl text-blue-500" />
-                        <IoLogoJavascript className="text-3xl text-yellow-400" />
-                      </div>
                     </div>
                   </div>
                 </div>
