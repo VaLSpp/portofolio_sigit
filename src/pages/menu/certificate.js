@@ -68,63 +68,63 @@ export default function Home() {
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti2.jpg">
-                    <Image src="/images/certificate/serti2.jpg" alt="picture3" width={500} height={500} />
+                    <Image src="/images/certificate/serti2.jpg" alt="picture2" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti3.png">
-                    <Image src="/images/certificate/serti3.jpg" alt="picture2" width={500} height={500} />
+                    <Image src="/images/certificate/serti3.jpg" alt="picture3" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti4.png">
-                    <Image src="/images/certificate/serti4.jpg" alt="picture2" width={500} height={500} />
+                    <Image src="/images/certificate/serti4.jpg" alt="picture4" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
 
                 <SwiperSlide>
                   <Link href="/images/certificate/serti5.jpg">
-                    <Image src="/images/certificate/serti5.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti5.jpg" alt="picture5" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti6.jpg">
-                    <Image src="/images/certificate/serti6.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti6.jpg" alt="picture6" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti7.jpg">
-                    <Image src="/images/certificate/serti7.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti7.jpg" alt="picture7" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti8.jpg">
-                    <Image src="/images/certificate/serti8.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti8.jpg" alt="picture8" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti9.jpg">
-                    <Image src="/images/certificate/serti9.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti9.jpg" alt="picture9" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti10.jpg">
-                    <Image src="/images/certificate/serti10.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti10.jpg" alt="picture10" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti11.jpg">
-                    <Image src="/images/certificate/serti11.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti11.jpg" alt="picture11" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti12.jpg">
-                    <Image src="/images/certificate/serti12.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti12.jpg" alt="picture12" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
                 <SwiperSlide>
                   <Link href="/images/certificate/serti13.jpg">
-                    <Image src="/images/certificate/serti13.jpg" alt="picture4" width={500} height={500} />
+                    <Image src="/images/certificate/serti13.jpg" alt="picture13" width={500} height={500} />
                   </Link>
                 </SwiperSlide>
               </Swiper>
